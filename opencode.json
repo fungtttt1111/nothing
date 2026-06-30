@@ -1,0 +1,11 @@
+{
+  "provider": {
+    "brave-leo": {
+      "npm": "@ai-sdk/openai-compatible",
+      "options": {
+        "baseURL": "https://homelander.ca/v1",
+        "apiKey": "dummy"
+      }
+    }
+  }
+}
